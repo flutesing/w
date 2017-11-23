@@ -1,0 +1,25 @@
+{
+  "name": "w",
+  "version": "1.0.0",
+  "description": "简易js库,移动端结合vue用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flutesing/w.git"
+  },
+  "keywords": [
+    "js",
+    "simple",
+    "in",
+    "vue"
+  ],
+  "author": "flutesing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flutesing/w/issues"
+  },
+  "homepage": "https://github.com/flutesing/w#readme"
+}
